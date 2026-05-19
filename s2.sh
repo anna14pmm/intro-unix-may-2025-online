@@ -17,6 +17,9 @@ pwd
 
 # Lista de archivos
 ls
-
-nl 
+ 
 # generar un espacio
+\n
+
+#
+cp
