@@ -55,3 +55,9 @@ cp s3.sh s3_copy.sh
 # me ayuda a mover un archivo
 mv s3_copy.sh s3_moved.sh
 
+# Todos los binarios 
+bin
+# Todos los archivos de configuración
+ls dev/
+# Los archivos de configuración del dispositivo
+ls etc/
